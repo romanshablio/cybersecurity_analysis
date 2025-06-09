@@ -1,0 +1,12 @@
+# Основные библиотеки
+pandas
+numpy
+matplotlib
+seaborn
+
+# Машинное обучение
+scikit-learn
+torch
+
+# Для работы с Jupyter (если запускается как ноутбук)
+jupyter
